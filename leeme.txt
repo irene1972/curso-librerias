@@ -1,0 +1,2 @@
+http://localhost:8080/curso-librerias/generar-pdf/
+http://localhost:8080/curso-librerias/generar-pdf/examples/example02.php
