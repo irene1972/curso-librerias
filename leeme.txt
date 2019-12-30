@@ -1,2 +1,6 @@
+### Aquí vemos el pdf generado
 http://localhost:8080/curso-librerias/generar-pdf/
+
+
+### Aquí vemos el contenido web directamente
 http://localhost:8080/curso-librerias/generar-pdf/examples/example02.php
