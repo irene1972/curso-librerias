@@ -4,8 +4,57 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "3741346e3adff1571b0f6ce379c13aef",
+    "content-hash": "d95f3c7f8fdd1a2fba0f99321e5bddf3",
     "packages": [
+        {
+            "name": "masterexploder/phpthumb",
+            "version": "2.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/monter08/PHPThumb.git",
+                "reference": "d12c4834acd1f7fe460b7179e037ba7d4ec387e9"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/monter08/PHPThumb/zipball/d12c4834acd1f7fe460b7179e037ba7d4ec387e9",
+                "reference": "d12c4834acd1f7fe460b7179e037ba7d4ec387e9",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.3.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "PHPThumb": "src",
+                    "PHPThumb\\Tests": "tests"
+                }
+            },
+            "license": [
+                "MIT"
+            ],
+            "authors": [
+                {
+                    "name": "Ian Selby",
+                    "email": "ian@gxdlabs.com"
+                },
+                {
+                    "name": "Jarrod Nettles",
+                    "email": "jarrod.nettles@icloud.com"
+                }
+            ],
+            "description": "A library for manipulating images in PHP.",
+            "homepage": "https://github.com/masterexploder/PHPThumb",
+            "keywords": [
+                "image",
+                "resize",
+                "rotate"
+            ],
+            "support": {
+                "source": "https://github.com/monter08/PHPThumb/tree/2.2"
+            },
+            "time": "2019-07-15T09:39:01+00:00"
+        },
         {
             "name": "spipu/html2pdf",
             "version": "v5.2.1",
