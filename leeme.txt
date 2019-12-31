@@ -49,3 +49,14 @@ http://localhost:8080/curso-librerias/depurar/
   Esta librería require de la instalación de un plugin en el navegador (FirePHP para firefox o para chrome)
 
 ******************************************************************************************************
+
+
+*****************************
+OTRAS LIBRERÍAS INTERESANTES:
+*****************************
+  phpexcel
+  phpmailer
+  swiftmailer (symfony)
+  twig
+  phpfastcache
+******************************************************************************************************
