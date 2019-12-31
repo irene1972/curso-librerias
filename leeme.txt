@@ -10,15 +10,22 @@ http://localhost:8080/curso-librerias/generar-pdf/examples/example02.php
 ******************************************************************************************************
 
 
+***********
+paginacion 
+***********
+http://localhost:8080/curso-librerias/paginacion/
+******************************************************************************************************
+
+
 *****************
 manipular imagen
 *****************
 http://localhost:8080/curso-librerias/manip-img/
 
 
- ************
+ ------------
  IMPORTANTE!!
- ************
+ ------------
   EL y otras funciones show() genera errores. Para solucionarlo...
   "..
   Add to composer.json
@@ -27,5 +34,18 @@ http://localhost:8080/curso-librerias/manip-img/
   and
     composer update masterexploder/phpthumb
   ..."
+
+******************************************************************************************************
+
+*********
+depurar
+*********
+http://localhost:8080/curso-librerias/depurar/
+******************************************************
+
+  ------------
+  IMPORTANTE:
+  ------------
+  Esta librería require de la instalación de un plugin en el navegador (FirePHP para firefox o para chrome)
 
 ******************************************************************************************************
